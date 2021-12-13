@@ -6,3 +6,21 @@
 ![Copy of elevatorDesignSystemOOP1ArielUniversityDolevAndDvir (1)](https://user-images.githubusercontent.com/62290677/142478335-138fa53b-ea16-418f-b1d8-1177a92a08a3.png)
 ![image](https://user-images.githubusercontent.com/62290677/145835672-1bc803cf-2fe3-4112-8acd-d0b05bec9d07.png)
 ![image](https://user-images.githubusercontent.com/62290677/145838786-a347efae-cffb-46c5-8739-0e6f15d4db62.png)
+![image](https://user-images.githubusercontent.com/62290677/145842349-855db9ff-1741-46e3-b9c2-13a4a3504514.png)
+![image](https://user-images.githubusercontent.com/62290677/145845800-9c050735-7684-48b7-ad0e-6c0e1abae2c6.png)
+![image](https://user-images.githubusercontent.com/62290677/145846306-fbfe323c-cb5d-4f66-950d-27cf5c1f2825.png)
+
+
+![image](https://user-images.githubusercontent.com/62290677/145862548-cde34cd1-3f64-41d5-aaf1-ac7c3c52875c.png)
+![image](https://user-images.githubusercontent.com/62290677/145862588-5ed1fe57-5f58-4d66-ba18-220845349dd1.png)
+![image](https://user-images.githubusercontent.com/62290677/145863194-30b79cdb-e957-4d74-827d-ed5a0fbc3182.png)
+![image](https://user-images.githubusercontent.com/62290677/145863323-fe00d6b0-bb6f-41e8-9244-c7ba3e4e81a8.png)
+![image](https://user-images.githubusercontent.com/62290677/145863573-33f5abd1-122c-4df4-9b18-9f69967c3aec.png)
+
+// to set default values when loading graph
+
+
+
+
+
+
