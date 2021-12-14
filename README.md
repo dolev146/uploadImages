@@ -17,6 +17,9 @@
 ![image](https://user-images.githubusercontent.com/62290677/145863323-fe00d6b0-bb6f-41e8-9244-c7ba3e4e81a8.png)
 ![image](https://user-images.githubusercontent.com/62290677/145863573-33f5abd1-122c-4df4-9b18-9f69967c3aec.png)
 
+![image](https://user-images.githubusercontent.com/62290677/146029438-b362acb8-3da2-4181-893c-aa9820e1ca57.png)
+
+<img src="https://user-images.githubusercontent.com/62290677/146029438-b362acb8-3da2-4181-893c-aa9820e1ca57.png" alt="drawing" width="650"/>
 // to set default values when loading graph
 
 
