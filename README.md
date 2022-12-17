@@ -1,3 +1,9 @@
+![DALL·E 2022-12-17 11 12 18 - end of the road](https://user-images.githubusercontent.com/62290677/208234769-d957ac69-d3ad-4417-8cb4-45e13f20c32a.png)
+
+
+![image](https://user-images.githubusercontent.com/62290677/208234784-89da08f2-06dd-4581-88c9-f19cc6c989ed.png)
+
+
 ![image](https://user-images.githubusercontent.com/62290677/208137472-e5e68e6d-d322-431e-a2b3-0491a681ec57.png)
 
 
